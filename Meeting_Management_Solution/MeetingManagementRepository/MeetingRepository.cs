@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MeetingManagementRepository
 {
-    public class Class1
+    public class MeetingRepository
     {
     }
 }
